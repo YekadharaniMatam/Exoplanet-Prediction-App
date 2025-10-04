@@ -1,0 +1,6 @@
+django
+imbalanced-learn
+joblib
+matplotlib
+pandas
+scikit-learn
